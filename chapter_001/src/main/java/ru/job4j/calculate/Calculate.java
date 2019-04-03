@@ -12,9 +12,6 @@ public class Calculate {
 	 * @param args - args.
 	 */
 	public static void main(String[] args) {
-		/**
-		 * @return Hello world.
-		 */
 		System.out.println("Hello world");
 	}
 	/**
