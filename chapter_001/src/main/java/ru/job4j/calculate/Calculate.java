@@ -6,14 +6,12 @@ package ru.job4j.calculate;
  * @version $Id$
  * @since 0.1
  */
-public class Calculate
-{
+public class Calculate {
 	/**
 	 * тестовый javadoc для метода главного
 	 * @param args - args.
 	 */
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		/**
 		 * @return Hello world.
 		 */
@@ -24,8 +22,7 @@ public class Calculate
 	 * @param name Your name.
 	 * @return Echo plus your name.
 	 */
-	public String echo(String name)
-	{
+	public String echo(String name) {
 		return "Echo, echo, echo : " + name;
 	}
 }

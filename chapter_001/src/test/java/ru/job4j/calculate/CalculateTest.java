@@ -10,8 +10,7 @@ import org.junit.Test;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-public class CalculateTest 
-{
+public class CalculateTest {
  @Test
  public void whenTakeNameThenThreeEchoPlusName() {
     String input = "Dmitry Kuznetsov";
