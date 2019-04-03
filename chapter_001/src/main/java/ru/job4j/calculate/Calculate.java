@@ -8,10 +8,12 @@ public class Calculate
 	/**
 	 * тестовый javadoc для метода главного
 	 * @param args - args.
-	 * @return Hello world.
 	 */
 	public static void main(String[] args)
 	{
+		/**
+		 * @return Hello world.
+		 */
 		System.out.println("Hello world");
 	}
 }
